@@ -7,7 +7,7 @@ const ImageBackground = styled(BackgroundImage)`
   background-image: url('/images/daniel-mccullough-mn.jpg');
   background-position: top 20% center;
   background-size: cover;
-  height: 40vh;
+  height: 50vh;
 
   + * {
     margin-top: 0;
